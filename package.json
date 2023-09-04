@@ -16,7 +16,7 @@
     "dependencies": {
         "biskviit": "2.0.0",
         "encoding": "0.1.13",
-        "iconv-lite": "^0.4.18"
+        "iconv-lite": "^0.6.3"
     },
     "devDependencies": {
         "chai": "^4.1.1",
